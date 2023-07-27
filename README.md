@@ -1,16 +1,35 @@
-# bitirme_projesi_2
+# Project Name
 
-A new Flutter project.
+[Project Description]
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 3](screenshots/screenshot3.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Project Description
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project is about [explain the purpose and usage of the project].
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- [List the features of the project]
+- [Feature 1]
+- [Feature 2]
+- [Feature 3]
+
+## Requirements
+
+- Flutter [version number]
+- Other dependencies and versions
+
+## Installation
+
+1. Download or clone the project files to your computer.
+2. Install Flutter to meet the requirements.
+3. Navigate to the project directory in the terminal.
+4. Run the following command to install dependencies:
+
+```bash
+flutter pub get
