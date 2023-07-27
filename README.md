@@ -1,4 +1,4 @@
-# Project Name
+# Yarı İletken Eleman Seçim Programı
 
 [Project Description]
 
@@ -33,3 +33,13 @@ This project is about [explain the purpose and usage of the project].
 
 ```bash
 flutter pub get
+```
+
+## Usage
+
+1. Navigate to the project directory in the terminal.
+2. Run the following command to start the application:
+
+```bash
+flutter run
+
